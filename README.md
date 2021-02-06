@@ -1,6 +1,6 @@
 # FLEXBOX-FROGGY
 
-##level 1
+## level 1
 ```
 #pond {
   display: flex;
