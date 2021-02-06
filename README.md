@@ -142,4 +142,36 @@ order:3
 order:-1
 }
 ```
+## level 16
+```
+#pond {
+  display: flex;
+  align-items: flex-start;
+}
 
+.yellow {
+ align-self:flex-end
+}
+```
+
+## level 17
+```
+#pond {
+  display: flex;
+  align-items: flex-start;
+}
+
+.yellow {
+  order:1;
+  align-self:flex-end
+}
+```
+
+## level 18
+
+```
+#pond {
+  display: flex;
+flex-wrap:wrap
+}
+```
