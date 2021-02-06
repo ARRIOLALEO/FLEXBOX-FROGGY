@@ -192,3 +192,43 @@ flex-direction:column;
   flex-flow:column wrap
 }
 ```
+## level 21
+```
+#pond {
+  display: flex;
+  flex-wrap: wrap;
+  align-content:flex-start
+}
+```
+
+## level 22
+```
+#pond {
+  display: flex;
+  flex-wrap: wrap;
+  align-content:flex-end
+}
+```
+
+## level 23
+
+```
+#pond {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction:column-reverse;
+  align-content:center;
+}
+```
+
+## level 24
+
+```
+#pond {
+  display: flex;
+  flex-direction:column-reverse;
+  flex-wrap:wrap-reverse;
+  align-content:space-between;
+  justify-content:center
+}
+```
